@@ -1,4 +1,4 @@
-## About ToVili
+## About ToViLi
 
 Berawal dari sulitnya mencari toko kelontong disekitar, kami mulai menjawab keresahan tersebut pada tahun 2010 dengan medirikan Toko Villa Lima yang menjangkau Villa Bogor Indah 1,2,3 dan 5. Biasa disebut dengan ToViLi, merupakan toko kelontong yang memenuhi kebutuhan rumah. ToViLi tidak hanya menjual jajanan, tapi juga menjual atau menyediakan layanan isi ulang galon, token listrik, dan pulsa. Pelayanan ramah dari ToViLi telah menjadi ciri khas sejak awal pertamakali berdiri.
 
