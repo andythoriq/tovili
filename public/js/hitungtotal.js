@@ -1,0 +1,1 @@
+document.getElementById('hasilTotal').textContent = [ ...document.querySelectorAll(".total") ].map(total => parseFloat(total.textContent)).reduce((total, current) => total + current).toLocaleString('id-ID')
